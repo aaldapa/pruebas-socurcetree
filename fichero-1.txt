@@ -1,2 +1,3 @@
 Nuevo fichero para pruebas de Sourcetree.
 Permite modificaciones una vez lo tienes en staged?
+Y con la nueva version de VS Code?
