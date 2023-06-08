@@ -1,0 +1,2 @@
+Nuevo fichero para pruebas de Sourcetree.
+Permite modificaciones una vez lo tienes en staged?
