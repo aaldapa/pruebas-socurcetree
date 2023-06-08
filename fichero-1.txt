@@ -7,7 +7,7 @@ Codigo linea 1 --> Inicio TS-1
 Codigo linea 2
 Codigo linea 3
 TUT-STREE - 3 /*Añade linea y modifica lineas existentes*/
-Codigo linea 4.-
+Codigo linea 4
 Codigo linea 5
 Codigo linea 6
 Codigo linea 7 <-- Fin TS-1
@@ -15,3 +15,5 @@ Codigo linea 7 <-- Fin TS-1
 TUT-STREE- 2
 Codigo linea 8
 
+TUT-STREE-4
+Codigo linea 9
